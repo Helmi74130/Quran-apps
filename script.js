@@ -88,6 +88,4 @@ $(document).ready(function() {
 				$("#connexion").show()
 			}
 		})
-}).catch(err => {
-	$("#connexion").show()
 })
